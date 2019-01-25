@@ -2,4 +2,7 @@
 
 This repository will be used for deeplearning study.
 
-Please add all the files in this repository to share with the members.
+Use "Code Analysis Practice" to upload basic codes to study with others.
+Use "Just Studying Functions" to explain confusing functions that are hard to catch at a glance.
+
+Use "Tensorflow Ubuntu" to explain usage of tensorflow in Ubuntu environment.
