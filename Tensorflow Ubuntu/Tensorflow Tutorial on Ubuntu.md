@@ -5,12 +5,18 @@ Installing Tensorflow
 ---------------------
 
 
-``` $ mkdir ~/project_directory \n ```
+``` $ mkdir ~/project_directory ```
+
 ``` $ cd ~/project_directory ```
+
 ``` $ python3 -m venv tensorflow ```
+
 ``` $ source tensorflow/bin ```
+
 ``` (tensorflow)username@hostname:~/project_directory $ ```
+
 ``` (tensorflow) $ pip3 install --upgrade tensorflow ```
+
 ``` $ deactivate ```
 
 ``` (tensorflow) $ python ```
