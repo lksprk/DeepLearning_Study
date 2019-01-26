@@ -5,7 +5,7 @@ Installing Tensorflow
 ---------------------
 
 
-``` $ mkdir ~/project_directory ```
+``` $ mkdir ~/project_directory \n ```
 ``` $ cd ~/project_directory ```
 ``` $ python3 -m venv tensorflow ```
 ``` $ source tensorflow/bin ```
